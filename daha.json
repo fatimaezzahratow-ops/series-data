@@ -1,0 +1,37 @@
+{
+  "poster": "https://img.piri.net/piri/upload/3/2025/11/25/de8bd75d-0a1py1r71d45cz01f4cmxli.webp",
+  "title": "اسم المسلسل",
+  "description": "وصف مختصر للمسلسل، يمكن أن يكون طويلًا قليلاً ليصف القصة والإعداد.",
+  "seasons": [
+    {
+      "season": 1,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "عنوان الحلقة الأولى",
+          "video": "https://wt4pjiive9agjpl.dramiyos-cdn.com/hls2/01/02311/jnbcq7iftuxv_o/index-v1-a1.m3u8?t=RhSKYIB8M-MvuMleqmMwsjXhwpooXmjwE2Fc1mlmQ0g&s=1766361476&e=129600&f=11558387&srv=GqsnLVZopSCc&i=0.4&sp=500&p1=GqsnLVZopSCc&p2=GqsnLVZopSCc&asn=36884",
+          "subtitles": "https://example.com/season1/episode1.vtt"
+        },
+        {
+          "episode": 2,
+          "title": "عنوان الحلقة الثانية",
+          "video": "https://hi3thh5oxxww.acek-cdn.com/hls2/01/02338/3ky7uxbqmvr8_o/index-v1-a1.m3u8?t=epcTSfjE8cI_4KV4jrIEYw5cyHn1guywc1UQj0JQyHE&s=1766361836&e=129600&f=11690821&srv=lhgg0pb6qN7Rp&i=0.4&sp=500&p1=lhgg0pb6qN7Rp&p2=lhgg0pb6qN7Rp&asn=36884",
+          "subtitles": "https://example.com/season1/episode2.vtt"
+        }
+        // أضف المزيد من الحلقات هنا
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "عنوان الحلقة الأولى من الموسم الثاني",
+          "video": "https://example.com/season2/episode1.m3u8",
+          "subtitles": "https://example.com/season2/episode1.vtt"
+        }
+        // أضف المزيد من الحلقات والمواسم هنا
+      ]
+    }
+  ]
+}
